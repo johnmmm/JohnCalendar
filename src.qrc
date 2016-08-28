@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Johncalendar_zh.qm</file>
+    </qresource>
+</RCC>
